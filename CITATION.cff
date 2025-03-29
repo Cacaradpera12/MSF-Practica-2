@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Sistema respiratorio [MATLAB; Spyder; Multisim]'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Kenia '
+    family-names: Berrelleza
+    email: L22210407@tectijuana.edu.mx
+    affiliation: tecnológico de nacional de mexico
+  - given-names: Natalie
+    family-names: Perez
+    email: L222104256@tectijuana.edu.mx
+    affiliation: Tecnológico nacional de mexico
+repository-code: 'https://github.com/KeniaAcosta/MSF-Practica-2'
+keywords:
+  - Contolador PID
+  - Sistema de control
+  - Circuito RLC
+  - Funcion de transferencia
+license: BSD-2-Clause
+version: '1.0'
